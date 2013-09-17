@@ -1,0 +1,41 @@
+
+ | i     a  m     h  a  l  l  u  c  i  n  a  t  i  n  g
+-+-----------------------------------------------------
+ | i     a  m     h  a  l  l  u  c  i  n  a  t  i  n  g
+c|cccccccccccccccccccccccccccccccc  i  n  a  t  i  n  g
+ | i     a  m     h  a  l  l  u     i  n  a  t  i  n  g
+a|aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa  t  i  n  g
+ | i     a  m     h  a  l  l  u     i  n     t  i  n  g
+l|llllllllllllllllllllllllll  u     i  n     t  i  n  g
+ | i     a  m     h  a  l     u     i  n     t  i  n  g
+l|lllllllllllllllllllllll     u     i  n     t  i  n  g
+ | i     a  m     h  a        u     i  n     t  i  n  g
+i|iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  n  g
+ | i     a  m     h  a        u     i  n     t     n  g
+n|nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn  g
+ | i     a  m     h  a        u     i  n     t        g
+g|ggggggggggggggggggggggggggggggggggggggggggggggggggggg
+ | i     a  m     h  a        u     i  n     t         
+ | i     a  m     h  a        u     i  n     t         
+ | i     a  m     h  a        u     i  n     t         
+i|iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  n     t         
+ | i     a  m     h  a        u        n     t         
+t|tttttttttttttttttttttttttttttttttttttttttttt         
+ | i     a  m     h  a        u        n               
+ | i     a  m     h  a        u        n               
+ | i     a  m     h  a        u        n               
+h|hhhhhhhhhhhhhhhhh  a        u        n               
+ | i     a  m        a        u        n               
+u|uuuuuuuuuuuuuuuuuuuuuuuuuuuuu        n               
+ | i     a  m        a                 n               
+m|mmmmmmmmmmm        a                 n               
+ | i     a           a                 n               
+a|aaaaaaaaaaaaaaaaaaaa                 n               
+ | i     a                             n               
+n|nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn               
+ | i     a                                             
+ | i     a                                             
+ | i     a                                             
+a|aaaaaaaa                                             
+ | i                                                   
+i|ii                                                   

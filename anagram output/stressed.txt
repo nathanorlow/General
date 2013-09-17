@@ -1,0 +1,51 @@
+
+ | i     a  m     r  e  a  l  l  y     s  t  r  e  s  s  e  d     o  u  t
+-+-----------------------------------------------------------------------
+ | i     a  m     r  e  a  l  l  y     s  t  r  e  s  s  e  d     o  u  t
+l|lllllllllllllllllllllllllllll  y     s  t  r  e  s  s  e  d     o  u  t
+ | i     a  m     r  e  a  l     y     s  t  r  e  s  s  e  d     o  u  t
+e|eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee  d     o  u  t
+ | i     a  m     r  e  a  l     y     s  t  r  e  s  s     d     o  u  t
+t|ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+ | i     a  m     r  e  a  l     y     s  t  r  e  s  s     d     o  u   
+ | i     a  m     r  e  a  l     y     s  t  r  e  s  s     d     o  u   
+ | i     a  m     r  e  a  l     y     s  t  r  e  s  s     d     o  u   
+y|yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy     s  t  r  e  s  s     d     o  u   
+ | i     a  m     r  e  a  l           s  t  r  e  s  s     d     o  u   
+o|ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo  u   
+ | i     a  m     r  e  a  l           s  t  r  e  s  s     d        u   
+u|uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu   
+ | i     a  m     r  e  a  l           s  t  r  e  s  s     d            
+r|rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr  e  s  s     d            
+ | i     a  m     r  e  a  l           s  t     e  s  s     d            
+ | i     a  m     r  e  a  l           s  t     e  s  s     d            
+ | i     a  m     r  e  a  l           s  t     e  s  s     d            
+d|ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd            
+ | i     a  m     r  e  a  l           s  t     e  s  s                  
+r|rrrrrrrrrrrrrrrrr  e  a  l           s  t     e  s  s                  
+ | i     a  m        e  a  l           s  t     e  s  s                  
+e|eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee  s  s                  
+ | i     a  m        e  a  l           s  t        s  s                  
+a|aaaaaaaaaaaaaaaaaaaaaaa  l           s  t        s  s                  
+ | i     a  m        e     l           s  t        s  s                  
+m|mmmmmmmmmmm        e     l           s  t        s  s                  
+ | i     a           e     l           s  t        s  s                  
+s|sssssssssssssssssssssssssssssssssssssssssssssssssssss                  
+ | i     a           e     l           s  t        s                     
+ | i     a           e     l           s  t        s                     
+ | i     a           e     l           s  t        s                     
+s|ssssssssssssssssssssssssssssssssssssssssssssssssss                     
+ | i     a           e     l           s  t                              
+e|eeeeeeeeeeeeeeeeeeee     l           s  t                              
+ | i     a                 l           s  t                              
+t|ttttttttttttttttttttttttttttttttttttttttt                              
+ | i     a                 l           s                                 
+ | i     a                 l           s                                 
+ | i     a                 l           s                                 
+s|ssssssssssssssssssssssssssssssssssssss                                 
+ | i     a                 l                                             
+a|aaaaaaaa                 l                                             
+ | i                       l                                             
+i|ii                       l                                             
+ |                         l                                             
+l|llllllllllllllllllllllllll                                             

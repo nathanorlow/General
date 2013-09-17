@@ -1,0 +1,45 @@
+
+ | a  l  l     i     s  m  o  k  e     i  s     m  e  d  i  c  a  l
+-+-----------------------------------------------------------------
+ | a  l  l     i     s  m  o  k  e     i  s     m  e  d  i  c  a  l
+s|sssssssssssssssssssssssssssssssssssssssss     m  e  d  i  c  a  l
+ | a  l  l     i     s  m  o  k  e     i        m  e  d  i  c  a  l
+o|oooooooooooooooooooooooooo  k  e     i        m  e  d  i  c  a  l
+ | a  l  l     i     s  m     k  e     i        m  e  d  i  c  a  l
+c|ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc  a  l
+ | a  l  l     i     s  m     k  e     i        m  e  d  i     a  l
+i|iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii     a  l
+ | a  l  l     i     s  m     k  e     i        m  e  d        a  l
+a|aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa  l
+ | a  l  l     i     s  m     k  e     i        m  e  d           l
+l|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+ | a  l  l     i     s  m     k  e     i        m  e  d            
+ | a  l  l     i     s  m     k  e     i        m  e  d            
+ | a  l  l     i     s  m     k  e     i        m  e  d            
+m|mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm  e  d            
+ | a  l  l     i     s  m     k  e     i           e  d            
+e|eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee  d            
+ | a  l  l     i     s  m     k  e     i              d            
+d|ddddddddddddddddddddddddddddddddddddddddddddddddddddd            
+ | a  l  l     i     s  m     k  e     i                           
+i|iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii                           
+ | a  l  l     i     s  m     k  e                                 
+a|aa  l  l     i     s  m     k  e                                 
+ |    l  l     i     s  m     k  e                                 
+ |    l  l     i     s  m     k  e                                 
+ |    l  l     i     s  m     k  e                                 
+k|kkkkkkkkkkkkkkkkkkkkkkkkkkkkk  e                                 
+ |    l  l     i     s  m        e                                 
+i|iiiiiiiiiiiiii     s  m        e                                 
+ |    l  l           s  m        e                                 
+l|llllllll           s  m        e                                 
+ |    l              s  m        e                                 
+l|lllll              s  m        e                                 
+ |                   s  m        e                                 
+s|ssssssssssssssssssss  m        e                                 
+ |                      m        e                                 
+ |                      m        e                                 
+ |                      m        e                                 
+m|mmmmmmmmmmmmmmmmmmmmmmm        e                                 
+ |                               e                                 
+e|eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee                                 

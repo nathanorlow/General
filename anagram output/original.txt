@@ -1,0 +1,35 @@
+
+ | g  o  t  t  a     b  e     o  r  i  g  i  n  a  l
+-+--------------------------------------------------
+ | g  o  t  t  a     b  e     o  r  i  g  i  n  a  l
+g|gggggggggggggggggggggggggggggggggggggg  i  n  a  l
+ | g  o  t  t  a     b  e     o  r  i     i  n  a  l
+r|rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr  i     i  n  a  l
+ | g  o  t  t  a     b  e     o     i     i  n  a  l
+e|eeeeeeeeeeeeeeeeeeeeeee     o     i     i  n  a  l
+ | g  o  t  t  a     b        o     i     i  n  a  l
+a|aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa  l
+ | g  o  t  t  a     b        o     i     i  n     l
+t|ttttttttttt  a     b        o     i     i  n     l
+ | g  o  t     a     b        o     i     i  n     l
+ | g  o  t     a     b        o     i     i  n     l
+ | g  o  t     a     b        o     i     i  n     l
+o|ooooooooooooooooooooooooooooo     i     i  n     l
+ | g  o  t     a     b              i     i  n     l
+b|bbbbbbbbbbbbbbbbbbbb              i     i  n     l
+ | g  o  t     a                    i     i  n     l
+l|llllllllllllllllllllllllllllllllllllllllllllllllll
+ | g  o  t     a                    i     i  n      
+i|iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii  n      
+ | g  o  t     a                    i        n      
+g|gg  o  t     a                    i        n      
+ |    o  t     a                    i        n      
+a|aaaaaaaaaaaaaa                    i        n      
+ |    o  t                          i        n      
+t|tttttttt                          i        n      
+ |    o                             i        n      
+i|iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii        n      
+ |    o                                      n      
+o|ooooo                                      n      
+ |                                           n      
+n|nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn      
