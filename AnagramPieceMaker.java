@@ -60,7 +60,7 @@ public class AnagramPieceMaker {
 			else{
 				pausestep=1;}
 			movementy=(maxFrames-movementx)/2+1;//integer division
-			System.out.println("Letter "+firstPhrase.charAt(i)+" will move ("+Integer.toString(movementx)+","+Integer.toString(movementy)+") and pause "+Integer.toString(pausestep));
+			//System.out.println("Letter "+firstPhrase.charAt(i)+" will move ("+Integer.toString(movementx)+","+Integer.toString(movementy)+") and pause "+Integer.toString(pausestep));
 			//movementy is how much the letter moves up and down
 			//movementx is how much the letter moves right
 			if (pieceNum<=movementy){

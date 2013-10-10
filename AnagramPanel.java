@@ -26,7 +26,7 @@ public class AnagramPanel  implements  ActionListener{
     	mainPieceMaker.setup(firstPhrase,secondPhrase);
     	
     	
-    	anagramLabel=new JLabel("Temp label");
+    	anagramLabel=new JLabel("");
     	anagramLabel.setLocation(100,10);
     	anagramLabel.setSize(700,600);
     	anagramLabel.setFont(new Font("Courier New", Font.PLAIN, 12));
@@ -60,6 +60,7 @@ public class AnagramPanel  implements  ActionListener{
     	textButton.addActionListener(this);
     	tempGUI.add(textButton);
     	
+    	updatePieceLabel();
     	return tempGUI;
 	}
 	
